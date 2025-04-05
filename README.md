@@ -33,7 +33,8 @@ the beginning steps of this project mainly focus on the setup of 4 virtual machi
 ![image](https://github.com/user-attachments/assets/eaee20eb-102a-4ac6-9802-ca5e69dff676)
 *Ref: downloading kali linux for this project, this downloads a .7z file which must be extracted in order the be used in the VirtualBox VM (virtual machine), for this i used 7.zip which returned the .vbox file for me.
 
-![image](https://github.com/user-attachments/assets/9435b7cb-4839-4a47-9110-8688cbb9b2e3)
+![image](https://github.com/user-attachments/assets/771b4840-d322-4aa5-951d-a5a5362df8a9)
+
 *Ref: kali running on the VM
 
 ![image](https://github.com/user-attachments/assets/cf90b5b9-504a-40cb-90c2-6c5b4e266a4d)

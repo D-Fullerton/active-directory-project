@@ -45,6 +45,8 @@ the beginning steps of this project mainly focus on the setup of 4 virtual machi
 *Ref: downloaded and set up windows server 2022 edition on VirtualBox
 
 ![image](https://github.com/user-attachments/assets/31802929-20a7-44f6-8c47-4483f75a1aef)
+![image](https://github.com/user-attachments/assets/154d0eab-4557-4ebf-a743-fba56fa3f0c6)
+
 *Ref: downloaded and set up splunk server on VirtualBox, this is the final VM needed for this project 
 
 
